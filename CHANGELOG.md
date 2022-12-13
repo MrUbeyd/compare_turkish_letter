@@ -1,3 +1,4 @@
-## 0.0.1
+[0.0.1] - 13.12.2022
 
-* TODO: Describe initial release.
+* Package created.
+* Paket oluşturuldu.

@@ -1,10 +1,11 @@
 name: compare_turkish_letter
-description: A new Flutter package project.
+description: This package aims to compare strings containing Turkish characters.
 version: 0.0.1
-homepage:
+author: Mehmet Ubeyd AY<m.ubeyday@gmail.com>
+homepage: https://github.com/MrUbeyd/compare_turkish_letter
 
 environment:
-  sdk: '>=2.18.5 <3.0.0'
+  sdk: ">=2.18.5 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
