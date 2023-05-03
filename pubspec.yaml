@@ -1,6 +1,6 @@
 name: compare_turkish_letter
 description: This package aims to compare strings containing Turkish characters.
-version: 0.0.1
+version: 0.0.2
 author: Mehmet Ubeyd AY<m.ubeyday@gmail.com>
 homepage: https://github.com/MrUbeyd/compare_turkish_letter
 
